@@ -339,12 +339,17 @@ html {
     align-items: center;
 }
 
+.skills h2 {
+  font-size: 3rem;
+  margin: 20px;
+  text-align: justify;
+  color: #fff;
+}
+
 .skills .skill{
     display: flex;
-    
-    
-    width: 600px;
-    height: 430px;
+    width: 400px;
+    height: 200px;
    
 }
 
